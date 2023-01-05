@@ -36,8 +36,8 @@
 
 ### 🎦 Latest YouTube videos
 
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
+<!-- BLOG-POST:START -->
+<!-- BLOG-POST:END -->
 
 ---
 
