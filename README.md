@@ -34,7 +34,7 @@
 
 ---
 
-### 🎦 My latest YouTube videos
+### 🎦 Latest YouTube videos
 
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
