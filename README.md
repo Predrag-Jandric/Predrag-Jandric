@@ -37,6 +37,11 @@
 ### 🎦 Latest YouTube videos
 
 <!-- BLOG-POST-LIST:START -->
+- [JS: Powerful Array Methods: Filter](https://www.youtube.com/watch?v=y5KUjeIBUsU)
+- [JS: Backticks and Interpolation](https://www.youtube.com/watch?v=8wVs20QFtp8)
+- [JS: For Loop](https://www.youtube.com/watch?v=wjju9a9r-RQ)
+- [JS: While Loop](https://www.youtube.com/watch?v=WZYNhKpAa1s)
+- [JS: Switch Statements](https://www.youtube.com/watch?v=Lt0BQ5wO480)
 <!-- BLOG-POST-LIST:END -->
 
 ---
