@@ -47,5 +47,5 @@
 ---
 
 <!-- stats card -->
-<p><img align="left" src="https://github-readme-stats-ruby-one.vercel.app/api?username=Predrag-Jandric&show_icons=true&locale=en&theme=gruvbox&hide=issues,contribs&include_all_commits=true" alt="user" /></p>
+<p><img align="left" src="https://github-readme-stats.zohan.tech.vercel.app/api?username=Predrag-Jandric&show_icons=true&locale=en&theme=gruvbox&hide=issues,contribs&include_all_commits=true" alt="user" /></p>
 
