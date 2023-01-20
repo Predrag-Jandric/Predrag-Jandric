@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=009FF5&height=300&section=header&text=Hello,%20I'm%20Predrag👋&fontSize=55&&animation=scaleIn&&fontColor=EBEBEB&&fontAlignY=40)
 
-## <a href='www.predrag-jandric.com'>🌟 My Portfolio 🌟</a>
+## [🌟 Portfolio 🌟](https://www.predrag-jandric.com/)
 
 - ☄️ Ask me anything related to Sass, Git or Javascript
 
