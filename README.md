@@ -37,11 +37,11 @@
 ### 🎦 My Latest YouTube videos
 
 <!-- BLOG-POST-LIST:START -->
-- [JS: Powerful Array Methods: Filter](https://www.youtube.com/watch?v=y5KUjeIBUsU)
-- [JS: Backticks and Interpolation](https://www.youtube.com/watch?v=8wVs20QFtp8)
-- [JS: For Loop](https://www.youtube.com/watch?v=wjju9a9r-RQ)
-- [JS: While Loop](https://www.youtube.com/watch?v=WZYNhKpAa1s)
-- [JS: Switch Statements](https://www.youtube.com/watch?v=Lt0BQ5wO480)
+- [I&#39;m canceling Git videos and focusing on JS and React [8]](https://www.youtube.com/watch?v=r15gUC2OFwE)
+- [Git commit, push [6]](https://www.youtube.com/watch?v=EjUvOydu9fk)
+- [Git commit practice [7]](https://www.youtube.com/watch?v=xUxOHZfF2hY)
+- [Git touch, mkdir [5]](https://www.youtube.com/watch?v=2_rZbxLZ9B0)
+- [Git config user and email [4]](https://www.youtube.com/watch?v=UE_vsA3ZHFE)
 <!-- BLOG-POST-LIST:END -->
 
 ---
