@@ -4,7 +4,7 @@
 
 - ☄️ Ask me anything related to Sass, Git or Javascript
 
-- 🐲 At the moment practicing JavaScript and doing YouTube tutorials
+- 🐲 At the moment practicing JavaScript and learning React
 
 - 🚀 I’m currently seeking work
 
