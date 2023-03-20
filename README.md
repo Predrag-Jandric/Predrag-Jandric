@@ -37,11 +37,11 @@
 ### 🎦 My Latest YouTube videos
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Revisited: Calling a function inside function](https://www.youtube.com/watch?v=hyzCYaCzNW0)
 - [JavaScript Revisited: Arrow Functions](https://www.youtube.com/watch?v=N-Vr0nuCiCQ)
 - [JavaScript Revisited: Functions Declarations and Expressions](https://www.youtube.com/watch?v=D6EzDj3dXT4)
 - [JavaScript Revisited: Functions](https://www.youtube.com/watch?v=vNmxUuxCG0U)
 - [JavaScript Revisited: Ternary operator](https://www.youtube.com/watch?v=_yJmGBo_-F0)
-- [I&#39;m canceling Git videos and focusing on JS and React [8]](https://www.youtube.com/watch?v=r15gUC2OFwE)
 <!-- BLOG-POST-LIST:END -->
 
 ---
