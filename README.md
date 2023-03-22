@@ -2,11 +2,11 @@
 
 ## [🌟 Portfolio 🌟](https://www.predrag-jandric.com/)
 
-- ☄️ Ask me anything related to Sass, Git or Javascript
+- ☄️ Ask me anything related to Sass or Javascript
 
 - 🐲 At the moment practicing JavaScript and learning React
 
-- 🚀 I’m currently seeking work
+- 🚀 Open for work opportunities
 
 - 📫 Email me at **predrag.jandric.bg@gmail.com**
 
