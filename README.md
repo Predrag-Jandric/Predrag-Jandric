@@ -37,11 +37,11 @@
 ### 🎦 My Latest YouTube videos
 
 <!-- BLOG-POST-LIST:START -->
+- [JS Revisited: this keyword](https://www.youtube.com/watch?v=NWz9e5xgzRY)
+- [JS Revisited: Hoisting](https://www.youtube.com/watch?v=32tJufKaz0o)
 - [JS Revisited: Scoping](https://www.youtube.com/watch?v=Vi4s-0MJHjM)
 - [JS Revisited: Array Methods &lpar;reduce, reverse&rpar; part 5](https://www.youtube.com/watch?v=i_v2B_8FnIM)
 - [JS Revisited: Array Methods &lpar;every, filter, indexOf&rpar; part 4](https://www.youtube.com/watch?v=Ute8kAEkJIk)
-- [JS Revisited: Array Methods &lpar;splice, slice, join&rpar; part 3](https://www.youtube.com/watch?v=BASJfMRVpaU)
-- [JS Revisited: Array Methods &lpar;unshift, push, shift, pop&rpar; part 2](https://www.youtube.com/watch?v=t8VpbP1fVX4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
