@@ -37,11 +37,11 @@
 ### 🎦 My Latest YouTube videos
 
 <!-- BLOG-POST-LIST:START -->
+- [JS Revisited: For-of loop &lpar;loop for arrays&rpar;](https://www.youtube.com/watch?v=QmvCt2Dn8c0)
+- [JS Revisited: Enhanced object literals, ES6 feature](https://www.youtube.com/watch?v=7C8iBiWb-kc)
+- [JS Revisited: Nullish Coalescing operator](https://www.youtube.com/watch?v=Ui1nq9iLXXQ)
 - [JS Revisited: Short circuiting](https://www.youtube.com/watch?v=8yI2k_bV__E)
 - [JS Revisited: Truthy and Falsy values](https://www.youtube.com/watch?v=2uEiFZ8KYJk)
-- [JS revisited: Spread and Rest operator summary](https://www.youtube.com/watch?v=wz5qBfu7In0)
-- [JS Revisited: Rest operator](https://www.youtube.com/watch?v=N4nYEFP6rn8)
-- [JS Revisited: Spread operator](https://www.youtube.com/watch?v=hEpMVRn3NK4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
