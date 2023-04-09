@@ -37,11 +37,11 @@
 ### 🎦 My Latest YouTube videos
 
 <!-- BLOG-POST-LIST:START -->
+- [JS Revisited: String methods &lpar;indexOf, slice&rpar; part 1](https://www.youtube.com/watch?v=UcSLybUUhNQ)
+- [JS Revisited: Sets](https://www.youtube.com/watch?v=cNKOlysyJYM)
 - [JS Revisited: Object loop: Object.keys&lpar;&rpar;, Object.values&lpar;&rpar;,  Object.entries&lpar;&rpar;](https://www.youtube.com/watch?v=u3kvxlzewn8)
 - [JS Revisited: For-of loop &lpar;loop for arrays&rpar;](https://www.youtube.com/watch?v=QmvCt2Dn8c0)
 - [JS Revisited: Enhanced object literals, ES6 feature](https://www.youtube.com/watch?v=7C8iBiWb-kc)
-- [JS Revisited: Nullish Coalescing operator](https://www.youtube.com/watch?v=Ui1nq9iLXXQ)
-- [JS Revisited: Short circuiting](https://www.youtube.com/watch?v=8yI2k_bV__E)
 <!-- BLOG-POST-LIST:END -->
 
 ---
