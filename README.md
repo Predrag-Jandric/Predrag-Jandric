@@ -37,11 +37,11 @@
 ### 🎦 My Latest YouTube videos
 
 <!-- BLOG-POST-LIST:START -->
+- [JS Revisited: Set function parameters default values](https://www.youtube.com/watch?v=FrJvo2Q-stI)
+- [JS Revisited: String methods practice](https://www.youtube.com/watch?v=OU6Y-F3ZEG4)
 - [JS Revisited: String methods &lpar;split, padding, mask credit card practice&rpar; part 3](https://www.youtube.com/watch?v=M81GFBoXQLw)
 - [JS Revisited: String methods &lpar;upper/lower case, trim, replace, includes, starts/ends-With&rpar; part 2](https://www.youtube.com/watch?v=xP5VZtSj0fI)
 - [JS Revisited: String methods &lpar;indexOf, slice&rpar; part 1](https://www.youtube.com/watch?v=UcSLybUUhNQ)
-- [JS Revisited: Sets](https://www.youtube.com/watch?v=cNKOlysyJYM)
-- [JS Revisited: Object loop: Object.keys&lpar;&rpar;, Object.values&lpar;&rpar;,  Object.entries&lpar;&rpar;](https://www.youtube.com/watch?v=u3kvxlzewn8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
