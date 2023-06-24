@@ -37,11 +37,11 @@
 ### 🎦 My Latest YouTube videos
 
 <!-- BLOG-POST-LIST:START -->
+- [React: Mapping through simulated API data](https://www.youtube.com/watch?v=piGfTNEXWfk)
+- [React: Destructuring props](https://www.youtube.com/watch?v=SBge1X2QNpI)
+- [React: Props](https://www.youtube.com/watch?v=95H7l9H7PdM)
+- [React: Adding classes to elements &lpar;ClassName&rpar;](https://www.youtube.com/watch?v=egj7A4ltIXU)
 - [React: Components](https://www.youtube.com/watch?v=VczVYjwiCvU)
-- [React: JSX syntax](https://www.youtube.com/watch?v=dj_yeup5pVc)
-- [React: Setting up](https://www.youtube.com/watch?v=7mLt8xse028)
-- [React: What is it?](https://www.youtube.com/watch?v=wLufNEfOUS4)
-- [JS Revisited: Set function parameters default values](https://www.youtube.com/watch?v=FrJvo2Q-stI)
 <!-- BLOG-POST-LIST:END -->
 
 ---
