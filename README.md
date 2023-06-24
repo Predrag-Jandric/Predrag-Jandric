@@ -37,11 +37,11 @@
 ### 🎦 My Latest YouTube videos
 
 <!-- BLOG-POST-LIST:START -->
+- [React: Components](https://www.youtube.com/watch?v=VczVYjwiCvU)
+- [React: JSX syntax](https://www.youtube.com/watch?v=dj_yeup5pVc)
+- [React: Setting up](https://www.youtube.com/watch?v=7mLt8xse028)
 - [React: What is it?](https://www.youtube.com/watch?v=wLufNEfOUS4)
 - [JS Revisited: Set function parameters default values](https://www.youtube.com/watch?v=FrJvo2Q-stI)
-- [JS Revisited: String methods practice](https://www.youtube.com/watch?v=OU6Y-F3ZEG4)
-- [JS Revisited: String methods &lpar;split, padding, mask credit card practice&rpar; part 3](https://www.youtube.com/watch?v=M81GFBoXQLw)
-- [JS Revisited: String methods &lpar;upper/lower case, trim, replace, includes, starts/ends-With&rpar; part 2](https://www.youtube.com/watch?v=xP5VZtSj0fI)
 <!-- BLOG-POST-LIST:END -->
 
 ---
