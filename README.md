@@ -37,11 +37,11 @@
 ### 🎦 My Latest YouTube videos
 
 <!-- BLOG-POST-LIST:START -->
+- [React: Modifying state with setter function](https://www.youtube.com/watch?v=wa2cD9al8EI)
+- [React: What is state ? &lpar;useState hook&rpar;](https://www.youtube.com/watch?v=lYa662mTusU)
 - [React: What is NPM ?](https://www.youtube.com/watch?v=ejwoAl_oPlE)
 - [React: Mapping through simulated API data](https://www.youtube.com/watch?v=piGfTNEXWfk)
 - [React: Destructuring props](https://www.youtube.com/watch?v=SBge1X2QNpI)
-- [React: Props](https://www.youtube.com/watch?v=95H7l9H7PdM)
-- [React: Adding classes to elements &lpar;ClassName&rpar;](https://www.youtube.com/watch?v=egj7A4ltIXU)
 <!-- BLOG-POST-LIST:END -->
 
 ---
