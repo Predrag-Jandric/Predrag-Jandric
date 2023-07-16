@@ -37,11 +37,11 @@
 ### 🎦 My Latest YouTube videos
 
 <!-- BLOG-POST-LIST:START -->
+- [React: What is NPM ?](https://www.youtube.com/watch?v=ejwoAl_oPlE)
 - [React: Mapping through simulated API data](https://www.youtube.com/watch?v=piGfTNEXWfk)
 - [React: Destructuring props](https://www.youtube.com/watch?v=SBge1X2QNpI)
 - [React: Props](https://www.youtube.com/watch?v=95H7l9H7PdM)
 - [React: Adding classes to elements &lpar;ClassName&rpar;](https://www.youtube.com/watch?v=egj7A4ltIXU)
-- [React: Components](https://www.youtube.com/watch?v=VczVYjwiCvU)
 <!-- BLOG-POST-LIST:END -->
 
 ---
