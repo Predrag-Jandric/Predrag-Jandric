@@ -37,10 +37,10 @@
 ### 🎦 My Latest YouTube videos
 
 <!-- BLOG-POST-LIST:START -->
+- [React: Router DOM &lpar;npm package&rpar;](https://www.youtube.com/watch?v=UlW77_zA8bw)
 - [React: Using Axios and mapping over data](https://www.youtube.com/watch?v=GI4-HbG5axk)
 - [React: Using Axios and fetching data](https://www.youtube.com/watch?v=fwlcpN4hxQo)
 - [React: useEffect hook](https://www.youtube.com/watch?v=JA0kri18_Tw)
-- [React: Sending functions to components as props](https://www.youtube.com/watch?v=Ees5yYt13g8)
 - [React: Modifying state with setter function](https://www.youtube.com/watch?v=wa2cD9al8EI)
 <!-- BLOG-POST-LIST:END -->
 
