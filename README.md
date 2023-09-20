@@ -41,11 +41,11 @@
 ### 🎦 My Latest YouTube videos
 
 <!-- BLOG-POST-LIST:START -->
+- [Framer Motion: Reading documentation](https://www.youtube.com/watch?v=TNTvPZ1pbOE)
+- [What is Framer Motion Animation Library?](https://www.youtube.com/watch?v=jx65ohp-Wis)
 - [React: What is dev build or production build ?](https://www.youtube.com/watch?v=AK68w8aRAcA)
 - [Three.js &amp; React: 3D objects practice](https://www.youtube.com/watch?v=6veozYJlZNM)
 - [React: sass VS styled components VS tailwind](https://www.youtube.com/watch?v=xLHBZgXb4Cw)
-- [React: Router DOM &lpar;npm package&rpar;](https://www.youtube.com/watch?v=UlW77_zA8bw)
-- [React: Using Axios and mapping over data](https://www.youtube.com/watch?v=GI4-HbG5axk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
