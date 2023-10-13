@@ -41,11 +41,11 @@
 ### 🎦 My Latest YouTube videos
 
 <!-- BLOG-POST-LIST:START -->
+- [Create great GitHub readme.md](https://www.youtube.com/watch?v=hn9i6SwVets)
 - [Tailwind: Overview. What is it and what it can do ?](https://www.youtube.com/watch?v=7MJNdO3jyEI)
 - [Interesting Portfolio using Framer Motion, Tailwind and Next.js](https://www.youtube.com/watch?v=Zh21c-6RdCU)
 - [Framer Motion: Reading documentation](https://www.youtube.com/watch?v=TNTvPZ1pbOE)
 - [What is Framer Motion Animation Library?](https://www.youtube.com/watch?v=jx65ohp-Wis)
-- [React: What is dev build or production build ?](https://www.youtube.com/watch?v=AK68w8aRAcA)
 <!-- BLOG-POST-LIST:END -->
 
 ---
