@@ -41,11 +41,11 @@
 ### 🎦 My Latest YouTube videos
 
 <!-- BLOG-POST-LIST:START -->
-- [git initialising empty project](https://www.youtube.com/watch?v=3i0Vo3xtAXU)
-- [Create great GitHub readme.md](https://www.youtube.com/watch?v=hn9i6SwVets)
-- [Tailwind: Overview. What is it and what it can do ?](https://www.youtube.com/watch?v=7MJNdO3jyEI)
-- [Interesting Portfolio using Framer Motion, Tailwind and Next.js](https://www.youtube.com/watch?v=Zh21c-6RdCU)
-- [Framer Motion: Reading documentation](https://www.youtube.com/watch?v=TNTvPZ1pbOE)
+- [NextJS: When to use Client side or Server side](https://www.youtube.com/watch?v=otYEYdvKA4E)
+- [NextJS: server side, client side, static generation](https://www.youtube.com/watch?v=VvKdegLUB9w)
+- [NextJS: Some templates and examples](https://www.youtube.com/watch?v=DcKdpEcNmdc)
+- [NextJS: What is it?](https://www.youtube.com/watch?v=C6-zREfYb20)
+- [Git: initialising empty project](https://www.youtube.com/watch?v=3i0Vo3xtAXU)
 <!-- BLOG-POST-LIST:END -->
 
 ---
