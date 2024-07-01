@@ -41,11 +41,11 @@
 ### 🎦 My Latest YouTube videos
 
 <!-- BLOG-POST-LIST:START -->
+- [React Revisited: Reading useState docs part 2](https://www.youtube.com/watch?v=dtZTrtoH_Z4)
+- [React Revisited: Reading useState docs part 1](https://www.youtube.com/watch?v=9A7kiiipGJ8)
 - [NextJS: When to use Client side or Server side](https://www.youtube.com/watch?v=otYEYdvKA4E)
 - [NextJS: server side, client side, static generation](https://www.youtube.com/watch?v=VvKdegLUB9w)
 - [NextJS: Some templates and examples](https://www.youtube.com/watch?v=DcKdpEcNmdc)
-- [NextJS: What is it?](https://www.youtube.com/watch?v=C6-zREfYb20)
-- [Git: initialising empty project](https://www.youtube.com/watch?v=3i0Vo3xtAXU)
 <!-- BLOG-POST-LIST:END -->
 
 ---
