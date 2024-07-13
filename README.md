@@ -41,11 +41,11 @@
 ### 🎦 My Latest YouTube videos
 
 <!-- BLOG-POST-LIST:START -->
+- [React Revisited - &quot;children&quot; prop](https://www.youtube.com/watch?v=4Lbq3ArQdUM)
+- [React Revisited - Step sequencer project overview](https://www.youtube.com/watch?v=fgZ9EOZHcWA)
 - [React Revisited - Derived state](https://www.youtube.com/watch?v=58plLWXaKsU)
 - [React Revisited - Controlled elements](https://www.youtube.com/watch?v=f0H7hmQ4bps)
 - [React Revisited - Tip calculator project overview](https://www.youtube.com/watch?v=4UOs8fGvqhg)
-- [React Revisited: Reading useState docs part 2](https://www.youtube.com/watch?v=dtZTrtoH_Z4)
-- [React Revisited: Reading useState docs part 1](https://www.youtube.com/watch?v=9A7kiiipGJ8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
