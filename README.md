@@ -41,11 +41,11 @@
 ### 🎦 My Latest YouTube videos
 
 <!-- BLOG-POST-LIST:START -->
+- [React Revisited - Derived state](https://www.youtube.com/watch?v=58plLWXaKsU)
+- [React Revisited - Controlled elements](https://www.youtube.com/watch?v=f0H7hmQ4bps)
 - [React Revisited - Tip calculator project overview](https://www.youtube.com/watch?v=4UOs8fGvqhg)
 - [React Revisited: Reading useState docs part 2](https://www.youtube.com/watch?v=dtZTrtoH_Z4)
 - [React Revisited: Reading useState docs part 1](https://www.youtube.com/watch?v=9A7kiiipGJ8)
-- [NextJS: When to use Client side or Server side](https://www.youtube.com/watch?v=otYEYdvKA4E)
-- [NextJS: server side, client side, static generation](https://www.youtube.com/watch?v=VvKdegLUB9w)
 <!-- BLOG-POST-LIST:END -->
 
 ---
