@@ -41,11 +41,11 @@
 ### 🎦 My Latest YouTube videos
 
 <!-- BLOG-POST-LIST:START -->
+- [React Revisited - Split the bill overview](https://www.youtube.com/watch?v=ZXAVUdRZNuI)
 - [React Revisited - Packing list overview](https://www.youtube.com/watch?v=a37tiYbV_O8)
 - [React Revisited - Accordion project overview](https://www.youtube.com/watch?v=OU72Blg2wIw)
 - [React Revisited - useState practice](https://www.youtube.com/watch?v=Keab0pcHQy4)
 - [React Revisited - Flashcards project overview](https://www.youtube.com/watch?v=wRhG8_xy5mA)
-- [React Revisited - &quot;children&quot; prop](https://www.youtube.com/watch?v=4Lbq3ArQdUM)
 <!-- BLOG-POST-LIST:END -->
 
 ---
