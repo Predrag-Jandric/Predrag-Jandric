@@ -41,11 +41,11 @@
 ### 🎦 My Latest YouTube videos
 
 <!-- BLOG-POST-LIST:START -->
+- [React Revisited - useMemo game to test rendering understanding](https://www.youtube.com/watch?v=wAEipPF2zoE)
+- [React Revisited - How rendering works and how useMemo&lpar;&rpar; hook works](https://www.youtube.com/watch?v=d6logqbxpnc)
+- [React Revisited - To-do app practive overview](https://www.youtube.com/watch?v=RvJjWk8fQwI)
 - [React Revisited - Split the bill overview](https://www.youtube.com/watch?v=ZXAVUdRZNuI)
 - [React Revisited - Packing list overview](https://www.youtube.com/watch?v=a37tiYbV_O8)
-- [React Revisited - Accordion project overview](https://www.youtube.com/watch?v=OU72Blg2wIw)
-- [React Revisited - useState practice](https://www.youtube.com/watch?v=Keab0pcHQy4)
-- [React Revisited - Flashcards project overview](https://www.youtube.com/watch?v=wRhG8_xy5mA)
 <!-- BLOG-POST-LIST:END -->
 
 ---
