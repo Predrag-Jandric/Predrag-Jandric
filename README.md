@@ -41,11 +41,11 @@
 ### 🎦 My Latest YouTube videos
 
 <!-- BLOG-POST-LIST:START -->
+- [React Revisited - React v19 new compiler !](https://www.youtube.com/watch?v=TsW_LtvFixQ)
 - [React Revisited - Build your own React part 2](https://www.youtube.com/watch?v=vmFqorb7T7Q)
 - [React Revisited - Build your own React part 1](https://www.youtube.com/watch?v=XoepzISgbRQ)
 - [React Revisited - Going back to 2018 when Hooks were introduced](https://www.youtube.com/watch?v=vOxDT_ZAKBI)
 - [React Revisited - useMemo game to test rendering understanding](https://www.youtube.com/watch?v=wAEipPF2zoE)
-- [React Revisited - How rendering works and how useMemo&lpar;&rpar; hook works](https://www.youtube.com/watch?v=d6logqbxpnc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
