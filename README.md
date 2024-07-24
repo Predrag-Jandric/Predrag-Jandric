@@ -41,11 +41,11 @@
 ### 🎦 My Latest YouTube videos
 
 <!-- BLOG-POST-LIST:START -->
+- [React Revisited - Keeping Components Pure &lpar;reading documentation&rpar;](https://www.youtube.com/watch?v=IDlnZDRTXAM)
+- [React Revisited - React calls components and hooks &lpar;reading documentation&rpar;](https://www.youtube.com/watch?v=TW43wlBrtXU)
 - [React Revisited - Rules of Hooks &lpar;reading documentation&rpar;](https://www.youtube.com/watch?v=S0Vf08JD5a4)
 - [React Revisited - Rules of React overview &lpar;reading documentation&rpar;](https://www.youtube.com/watch?v=pPxAuoaqVZE)
 - [React Revisited - React v19 new compiler ! &lpar;reading documentation&rpar;](https://www.youtube.com/watch?v=TsW_LtvFixQ)
-- [React Revisited - Build your own React part 2](https://www.youtube.com/watch?v=vmFqorb7T7Q)
-- [React Revisited - Build your own React part 1](https://www.youtube.com/watch?v=XoepzISgbRQ)
 <!-- BLOG-POST-LIST:END -->
 
 ---
