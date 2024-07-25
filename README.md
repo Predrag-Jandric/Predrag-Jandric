@@ -43,7 +43,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [React Revisited - Thinking in React &lpar;part 2&rpar; &lpar;reading documentation&rpar;](https://www.youtube.com/watch?v=6udq1rXGnPs)
 - [React Revisited - Thinking in React &lpar;part 1&rpar; &lpar;reading documentation&rpar;](https://www.youtube.com/watch?v=l_3OLxum5q8)
-- [React Revisited - Keeping components pure](https://www.youtube.com/watch?v=OcOLVv0Oo2k)
+- [React Revisited - Components and hooks must be pure &lpar;reading documentation&rpar;](https://www.youtube.com/watch?v=OcOLVv0Oo2k)
 - [React Revisited - Keeping components pure &lpar;reading documentation&rpar;](https://www.youtube.com/watch?v=IDlnZDRTXAM)
 - [React Revisited - React calls components and hooks &lpar;reading documentation&rpar;](https://www.youtube.com/watch?v=TW43wlBrtXU)
 <!-- BLOG-POST-LIST:END -->
