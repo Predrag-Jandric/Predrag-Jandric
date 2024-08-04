@@ -43,9 +43,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [React Revisited - How to split components](https://www.youtube.com/watch?v=od7Ay8TmykA)
 - [React Revisited - My own project overview &lpar;React Challenges&rpar;](https://www.youtube.com/watch?v=iF-Tn3lIjz0)
-- [React Revisited - Thinking in React &lpar;part 2&rpar; &lpar;reading documentation&rpar;](https://www.youtube.com/watch?v=6udq1rXGnPs)
-- [React Revisited - Thinking in React &lpar;part 1&rpar; &lpar;reading documentation&rpar;](https://www.youtube.com/watch?v=l_3OLxum5q8)
-- [React Revisited - Components and hooks must be pure &lpar;reading documentation&rpar;](https://www.youtube.com/watch?v=OcOLVv0Oo2k)
+- [React - Thinking in React &lpar;part 2&rpar; &lpar;reading documentation&rpar;](https://www.youtube.com/watch?v=6udq1rXGnPs)
+- [React - Thinking in React &lpar;part 1&rpar; &lpar;reading documentation&rpar;](https://www.youtube.com/watch?v=l_3OLxum5q8)
+- [React - Components and hooks must be pure &lpar;reading documentation&rpar;](https://www.youtube.com/watch?v=OcOLVv0Oo2k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
