@@ -41,11 +41,11 @@
 ### 🎦 My Latest YouTube videos
 
 <!-- BLOG-POST-LIST:START -->
+- [React - How to deploy you github React app on Netlify](https://www.youtube.com/watch?v=O2ruxK-49O8)
 - [React - My react challenges app overview](https://www.youtube.com/watch?v=J3yEJnE8ej0)
 - [React - Text expander app overview](https://www.youtube.com/watch?v=JYqTdswagHs)
 - [React - How to prevent prop drilling with component composition](https://www.youtube.com/watch?v=KYgo3PNL4JU)
 - [React - Splitting components in practice](https://www.youtube.com/watch?v=cvCkc8bK--M)
-- [React - How to split components](https://www.youtube.com/watch?v=od7Ay8TmykA)
 <!-- BLOG-POST-LIST:END -->
 
 ---
