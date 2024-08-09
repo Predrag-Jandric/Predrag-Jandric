@@ -41,11 +41,11 @@
 ### 🎦 My Latest YouTube videos
 
 <!-- BLOG-POST-LIST:START -->
+- [React - Important rules and concepts](https://www.youtube.com/watch?v=Y6pJqGEmn9c)
+- [React - Batching](https://www.youtube.com/watch?v=nNlbI-XtQrI)
+- [React - Component lifecycle](https://www.youtube.com/watch?v=rqBqCS1a33Q)
 - [React - How rendering works &amp; Fiber tree](https://www.youtube.com/watch?v=BExB52e7OXA)
 - [React - Component instances and elements](https://www.youtube.com/watch?v=WNgD5GD81nE)
-- [React - How to deploy you github React app on Netlify](https://www.youtube.com/watch?v=O2ruxK-49O8)
-- [React - My react challenges app overview](https://www.youtube.com/watch?v=J3yEJnE8ej0)
-- [React - Text expander app overview](https://www.youtube.com/watch?v=JYqTdswagHs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
