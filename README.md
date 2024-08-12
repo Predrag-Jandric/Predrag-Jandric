@@ -41,11 +41,11 @@
 ### 🎦 My Latest YouTube videos
 
 <!-- BLOG-POST-LIST:START -->
+- [useEffect 2](https://www.youtube.com/watch?v=9CG3ERBjaro)
+- [useEffect](https://www.youtube.com/watch?v=6yw6ipsaBpc)
 - [React - Important rules and concepts](https://www.youtube.com/watch?v=Y6pJqGEmn9c)
 - [React - Batching](https://www.youtube.com/watch?v=nNlbI-XtQrI)
 - [React - Component lifecycle](https://www.youtube.com/watch?v=rqBqCS1a33Q)
-- [React - How rendering works &amp; Fiber tree](https://www.youtube.com/watch?v=BExB52e7OXA)
-- [React - Component instances and elements](https://www.youtube.com/watch?v=WNgD5GD81nE)
 <!-- BLOG-POST-LIST:END -->
 
 ---
