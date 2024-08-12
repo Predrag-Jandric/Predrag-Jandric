@@ -41,11 +41,11 @@
 ### 🎦 My Latest YouTube videos
 
 <!-- BLOG-POST-LIST:START -->
+- [useEffect 3](https://www.youtube.com/watch?v=T0il0rsfsP4)
 - [useEffect 2](https://www.youtube.com/watch?v=9CG3ERBjaro)
 - [useEffect](https://www.youtube.com/watch?v=6yw6ipsaBpc)
 - [React - Important rules and concepts](https://www.youtube.com/watch?v=Y6pJqGEmn9c)
 - [React - Batching](https://www.youtube.com/watch?v=nNlbI-XtQrI)
-- [React - Component lifecycle](https://www.youtube.com/watch?v=rqBqCS1a33Q)
 <!-- BLOG-POST-LIST:END -->
 
 ---
