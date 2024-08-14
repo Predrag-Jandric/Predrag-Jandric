@@ -41,11 +41,11 @@
 ### 🎦 My Latest YouTube videos
 
 <!-- BLOG-POST-LIST:START -->
+- [React - Currency converter project overview](https://www.youtube.com/watch?v=x5E6YjmHdr0)
 - [React - You Might Not Need an Effect part 2 &lpar;reading documentantion&rpar;](https://www.youtube.com/watch?v=XHHg5FGhf-Q)
 - [React - You Might Not Need an Effect part 1 &lpar;reading documentantion&rpar;](https://www.youtube.com/watch?v=tkeJMQMdFb8)
 - [React - useEffect part 3 &lpar;reading documentantion&rpar;](https://www.youtube.com/watch?v=T0il0rsfsP4)
 - [React - useEffect part 2 &lpar;reading documentantion&rpar;](https://www.youtube.com/watch?v=9CG3ERBjaro)
-- [React - useEffect part 1 &lpar;reading documentantion&rpar;](https://www.youtube.com/watch?v=6yw6ipsaBpc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
