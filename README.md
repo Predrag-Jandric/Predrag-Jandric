@@ -41,11 +41,11 @@
 ### 🎦 My Latest YouTube videos
 
 <!-- BLOG-POST-LIST:START -->
+- [React - How Redux is not dead yet](https://www.youtube.com/watch?v=9AUz-5sH--8)
+- [React as a UI runtime part 2 &lpar;reading blog&rpar;](https://www.youtube.com/watch?v=PRu9Q_8ZAjc)
 - [React as a UI runtime part 1 &lpar;reading blog&rpar;](https://www.youtube.com/watch?v=UBERpb0FM7w)
 - [React - New wave of state management part 2 &lpar;reading blog&rpar;](https://www.youtube.com/watch?v=7ptDjfqGCxU)
 - [React - New wave of state management part 1 &lpar;reading blog&rpar;](https://www.youtube.com/watch?v=BDtEF4ywtBU)
-- [React - What is Local storage and how to use it](https://www.youtube.com/watch?v=qCRVOfOt7DI)
-- [React - Currency converter project overview](https://www.youtube.com/watch?v=x5E6YjmHdr0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
