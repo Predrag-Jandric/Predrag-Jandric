@@ -41,11 +41,11 @@
 ### 🎦 My Latest YouTube videos
 
 <!-- BLOG-POST-LIST:START -->
+- [React as a UI runtime part 1 &lpar;reading blog&rpar;](https://www.youtube.com/watch?v=UBERpb0FM7w)
 - [React - New wave of state management part 2 &lpar;reading blog&rpar;](https://www.youtube.com/watch?v=7ptDjfqGCxU)
 - [React - New wave of state management part 1 &lpar;reading blog&rpar;](https://www.youtube.com/watch?v=BDtEF4ywtBU)
 - [React - What is Local storage and how to use it](https://www.youtube.com/watch?v=qCRVOfOt7DI)
 - [React - Currency converter project overview](https://www.youtube.com/watch?v=x5E6YjmHdr0)
-- [React - You Might Not Need an Effect part 2 &lpar;reading documentantion&rpar;](https://www.youtube.com/watch?v=XHHg5FGhf-Q)
 <!-- BLOG-POST-LIST:END -->
 
 ---
