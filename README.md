@@ -41,11 +41,11 @@
 ### 🎦 My Latest YouTube videos
 
 <!-- BLOG-POST-LIST:START -->
+- [Keys to a well written README.md](https://www.youtube.com/watch?v=t-R-I14Pv3I)
+- [Project structure. Repository and folders. Review of approaches](https://www.youtube.com/watch?v=QaB62OcjZTs)
+- [How to write good Git commit messages](https://www.youtube.com/watch?v=RbKafr-e7pc)
 - [React global state management   React Context vs React + Redux part 2 reading blog](https://www.youtube.com/watch?v=pMULffDlkFk)
 - [React global state management - React Context vs React + Redux part 1 &lpar;reading blog&rpar;](https://www.youtube.com/watch?v=HwbefdH3CPU)
-- [React - How Redux is not dead yet?](https://www.youtube.com/watch?v=9AUz-5sH--8)
-- [React as a UI runtime part 2 &lpar;reading blog&rpar;](https://www.youtube.com/watch?v=PRu9Q_8ZAjc)
-- [React as a UI runtime part 1 &lpar;reading blog&rpar;](https://www.youtube.com/watch?v=UBERpb0FM7w)
 <!-- BLOG-POST-LIST:END -->
 
 ---
