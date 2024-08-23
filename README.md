@@ -41,11 +41,11 @@
 ### 🎦 My Latest YouTube videos
 
 <!-- BLOG-POST-LIST:START -->
+- [Demystifying open source &lpar;reading blog&rpar;](https://www.youtube.com/watch?v=4prrGL5ZnGs)
+- [Axios - brief overview &lpar;reading blog&rpar;](https://www.youtube.com/watch?v=2HZ5rcsmHWU)
+- [React - Fixing race conditions with &quot;About Controller&quot; &lpar;reading blog&rpar;](https://www.youtube.com/watch?v=pDik5TVw90w)
 - [Keys to a well written README.md](https://www.youtube.com/watch?v=t-R-I14Pv3I)
 - [Project structure. Repository and folders. Review of approaches](https://www.youtube.com/watch?v=QaB62OcjZTs)
-- [How to write good Git commit messages](https://www.youtube.com/watch?v=RbKafr-e7pc)
-- [React global state management   React Context vs React + Redux part 2 reading blog](https://www.youtube.com/watch?v=pMULffDlkFk)
-- [React global state management - React Context vs React + Redux part 1 &lpar;reading blog&rpar;](https://www.youtube.com/watch?v=HwbefdH3CPU)
 <!-- BLOG-POST-LIST:END -->
 
 ---
