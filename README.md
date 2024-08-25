@@ -41,11 +41,11 @@
 ### 🎦 My Latest YouTube videos
 
 <!-- BLOG-POST-LIST:START -->
+- [React - useReducer hook](https://www.youtube.com/watch?v=FFLprsLt8ok)
 - [React - Styling options](https://www.youtube.com/watch?v=lLAeuwEESS0)
 - [Demystifying open source &lpar;reading blog&rpar;](https://www.youtube.com/watch?v=4prrGL5ZnGs)
 - [Axios - brief overview &lpar;reading blog&rpar;](https://www.youtube.com/watch?v=2HZ5rcsmHWU)
 - [React - Fixing race conditions with &quot;About Controller&quot; &lpar;reading blog&rpar;](https://www.youtube.com/watch?v=pDik5TVw90w)
-- [Keys to a well written README.md](https://www.youtube.com/watch?v=t-R-I14Pv3I)
 <!-- BLOG-POST-LIST:END -->
 
 ---
