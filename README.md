@@ -41,11 +41,11 @@
 ### 🎦 My Latest YouTube videos
 
 <!-- BLOG-POST-LIST:START -->
+- [useeffect](https://www.youtube.com/watch?v=pvUwUFBG5wM)
+- [Using Context API to Solve Prop Drilling](https://www.youtube.com/watch?v=pZLrx8bJ3LI)
 - [Scrum Guide](https://www.youtube.com/watch?v=Bwb0WrZcDDU)
 - [Git Workflow](https://www.youtube.com/watch?v=7C8e-6hw9TU)
 - [React - useReducer hook](https://www.youtube.com/watch?v=FFLprsLt8ok)
-- [React - Styling options](https://www.youtube.com/watch?v=lLAeuwEESS0)
-- [Demystifying open source &lpar;reading blog&rpar;](https://www.youtube.com/watch?v=4prrGL5ZnGs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
