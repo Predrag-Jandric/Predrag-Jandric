@@ -31,11 +31,11 @@ Regarding my portfolio: Working on it is not a priority at this time
 ### 🎦 My Latest YouTube videos
 
 <!-- BLOG-POST-LIST:START -->
+- [UI design principles hits and misses &lpar;reading blog part 1&rpar;](https://www.youtube.com/watch?v=4w8q_nzfSMc)
+- [UI design principles hits and misses &lpar;reading blog part 2&rpar;](https://www.youtube.com/watch?v=JjGL2FCxk-o)
 - [React - useEffect dependency array](https://www.youtube.com/watch?v=pvUwUFBG5wM)
 - [Using Context API to Solve Prop Drilling](https://www.youtube.com/watch?v=pZLrx8bJ3LI)
 - [Scrum Guide](https://www.youtube.com/watch?v=Bwb0WrZcDDU)
-- [Git Workflow](https://www.youtube.com/watch?v=7C8e-6hw9TU)
-- [React - useReducer hook](https://www.youtube.com/watch?v=FFLprsLt8ok)
 <!-- BLOG-POST-LIST:END -->
 
 ---
