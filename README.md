@@ -1,15 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=009FF5&height=300&section=header&text=Hello,%20I'm%20Predrag👋&fontSize=55&&animation=scaleIn&&fontColor=EBEBEB&&fontAlignY=40)
 
 <!-- ## [🌟 Portfolio 🌟](https://) IN PROGRESS -->
-### Portfolio = IN PROGRESS
 
-- ☄️ Ask me anything related to React
+Every day, and every hour spent coding, is another breadcrumb which will compounds into an impressive stack of skills. It's all about discipline and consistency 😀
 
-- 🐲 At the moment practicing React and learning Next.js
+Beyond technical skills, I value collaboration, communication, and empathy. I think that successful projects are built on strong teamwork and understanding.
 
-- 🚀 Open for work opportunities
+I believe that writing documentation is as vital as writing the code itself. It turns a codebase into a clear guide, making it easier for everyone to understand and contribute.
 
-- 📫 Email me at **predrag.jandric.bg@gmail.com**
+Learning to code, especially with React, has taught me more than just technical skills. It’s shown me the value of breaking down complex problems, focusing on reusability, and attention to detail. These lessons, I apply both in coding and in real life.
+
+Regarding my portfolio: Working on it is not a priority at this time
 
 ---
 
@@ -22,36 +23,29 @@
 ---
 
 <h3 align="left" >Languages and Tools:</h3>
-<p align="left" > 
 
-<!-- html -->
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>&nbsp;&nbsp;</a><!-- css --><a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>&nbsp;&nbsp;</a><!-- js --> 
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;&nbsp;</a><!-- react --> 
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/>&nbsp;&nbsp;</a><!-- redux toolkit --> 
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303557/redux-logo.svg" alt="redux toolkit" width="40" height="40"/>&nbsp;&nbsp;</a><!-- sass -->
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>&nbsp;&nbsp;</a><!-- tailwind --> 
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>&nbsp;&nbsp;</a><!-- git -->
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>&nbsp;&nbsp;</a><!-- figma -->
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>&nbsp;&nbsp;</a>
-
-</p>
+![My Skills](https://skillicons.dev/icons?i=html,css,js,git,sass,tailwind,react,redux)
 
 ---
 
 ### 🎦 My Latest YouTube videos
 
 <!-- BLOG-POST-LIST:START -->
-- [useeffect](https://www.youtube.com/watch?v=pvUwUFBG5wM)
-- [Using Context API to Solve Prop Drilling](https://www.youtube.com/watch?v=pZLrx8bJ3LI)
-- [Scrum Guide](https://www.youtube.com/watch?v=Bwb0WrZcDDU)
-- [Git Workflow](https://www.youtube.com/watch?v=7C8e-6hw9TU)
+
 - [React - useReducer hook](https://www.youtube.com/watch?v=FFLprsLt8ok)
+- [React - Styling options](https://www.youtube.com/watch?v=lLAeuwEESS0)
+- [Demystifying open source &lpar;reading blog&rpar;](https://www.youtube.com/watch?v=4prrGL5ZnGs)
+- [Axios - brief overview &lpar;reading blog&rpar;](https://www.youtube.com/watch?v=2HZ5rcsmHWU)
+- [React - Fixing race conditions with &quot;About Controller&quot; &lpar;reading blog&rpar;](https://www.youtube.com/watch?v=pDik5TVw90w)
+
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
 <!-- stats card -->
 <p><img  src="https://github-readme-stats-sigma-five.vercel.app/api?username=Predrag-Jandric&show_icons=true&locale=en&theme=gruvbox&hide=issues,contribs&include_all_commits=true" alt="user" /></p>
+
+![](https://komarev.com/ghpvc/?username=Predrag-Jandric&color=blue&base=367)
 
 
 <!-- most used languages -->
