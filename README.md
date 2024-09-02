@@ -41,11 +41,11 @@
 ### 🎦 My Latest YouTube videos
 
 <!-- BLOG-POST-LIST:START -->
+- [Scrum Guide](https://www.youtube.com/watch?v=Bwb0WrZcDDU)
 - [Git Workflow](https://www.youtube.com/watch?v=7C8e-6hw9TU)
 - [React - useReducer hook](https://www.youtube.com/watch?v=FFLprsLt8ok)
 - [React - Styling options](https://www.youtube.com/watch?v=lLAeuwEESS0)
 - [Demystifying open source &lpar;reading blog&rpar;](https://www.youtube.com/watch?v=4prrGL5ZnGs)
-- [Axios - brief overview &lpar;reading blog&rpar;](https://www.youtube.com/watch?v=2HZ5rcsmHWU)
 <!-- BLOG-POST-LIST:END -->
 
 ---
