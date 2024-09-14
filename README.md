@@ -31,11 +31,11 @@ Regarding my portfolio: Working on it is not a priority at this time
 ### 🎦 My Latest YouTube videos
 
 <!-- BLOG-POST-LIST:START -->
-- [React - Memoization](https://www.youtube.com/watch?v=8fC2ZtJKsfs)
-- [React dev tools](https://www.youtube.com/watch?v=OMFSsTzhEFM)
-- [Redux dev tools](https://www.youtube.com/watch?v=JIcyPy3IRtA)
-- [Chingu - Collaboration on real projects](https://www.youtube.com/watch?v=ij3M0hjy48w)
-- [UI design principles - hits and misses &lpar;reading blog part 1&rpar;](https://www.youtube.com/watch?v=4w8q_nzfSMc)
+- [Redux Fundamentals, Part 8 Modern Redux with Redux Toolkit part 2](https://www.youtube.com/watch?v=QOqImFbyAcU)
+- [Redux Fundamentals, Part 8 Modern Redux with Redux Toolkit part 1](https://www.youtube.com/watch?v=xY93AJE23TY)
+- [Successful Git branching model &lpar;reading blog&rpar;](https://www.youtube.com/watch?v=fCpyCro_bjQ)
+- [Chingu Voyage - Project requirements &lpar;reading documentation&rpar;](https://www.youtube.com/watch?v=SmXafslOG5M)
+- [4 branching workflows for Git &lpar;reading blog&rpar;](https://www.youtube.com/watch?v=zxVDx71n4ns)
 <!-- BLOG-POST-LIST:END -->
 
 ---
