@@ -31,11 +31,11 @@ Regarding my portfolio: Working on it is not a priority at this time
 ### 🎦 My Latest YouTube videos
 
 <!-- BLOG-POST-LIST:START -->
+- [Open Source for Developers A Beginner&#39;s Handbook to Help You Start Contributing  &lpar;reading blog&rpar;](https://www.youtube.com/watch?v=0vwjx9m6cTM)
+- [How to Use React Compiler - Complete Guide &lpar;reading blog&rpar;](https://www.youtube.com/watch?v=L-yWS4_vYo0)
 - [Redux Fundamentals, Part 8 Modern Redux with Redux Toolkit part 2](https://www.youtube.com/watch?v=QOqImFbyAcU)
 - [Redux Fundamentals, Part 8 Modern Redux with Redux Toolkit part 1](https://www.youtube.com/watch?v=xY93AJE23TY)
 - [Successful Git branching model &lpar;reading blog&rpar;](https://www.youtube.com/watch?v=fCpyCro_bjQ)
-- [Chingu Voyage - Project requirements &lpar;reading documentation&rpar;](https://www.youtube.com/watch?v=SmXafslOG5M)
-- [4 branching workflows for Git &lpar;reading blog&rpar;](https://www.youtube.com/watch?v=zxVDx71n4ns)
 <!-- BLOG-POST-LIST:END -->
 
 ---
