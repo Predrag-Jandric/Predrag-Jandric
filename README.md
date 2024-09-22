@@ -31,11 +31,11 @@ Regarding my portfolio: Working on it is not a priority at this time
 ### 🎦 My Latest YouTube videos
 
 <!-- BLOG-POST-LIST:START -->
-- [Open Source for Developers A Beginner&#39;s Handbook to Help You Start Contributing  &lpar;reading blog&rpar;](https://www.youtube.com/watch?v=0vwjx9m6cTM)
-- [How to Use React Compiler - Complete Guide &lpar;reading blog&rpar;](https://www.youtube.com/watch?v=L-yWS4_vYo0)
-- [Redux Fundamentals, Part 8 Modern Redux with Redux Toolkit part 2](https://www.youtube.com/watch?v=QOqImFbyAcU)
-- [Redux Fundamentals, Part 8 Modern Redux with Redux Toolkit part 1](https://www.youtube.com/watch?v=xY93AJE23TY)
-- [Successful Git branching model &lpar;reading blog&rpar;](https://www.youtube.com/watch?v=fCpyCro_bjQ)
+- [How to install React with Vite and add Tailwindcss](https://www.youtube.com/watch?v=HPZjOD9Govg)
+- [Git pull command &lpar;learning&rpar;](https://www.youtube.com/watch?v=_ovRgh2UYUs)
+- [Git remote branches and fetch playground &lpar;learning&rpar;](https://www.youtube.com/watch?v=-T_Ldj7-kMk)
+- [Git rebase &lpar;learning&rpar;](https://www.youtube.com/watch?v=-SQyR8HJBpE)
+- [Git merge &lpar;learning&rpar;](https://www.youtube.com/watch?v=b2H6qbqmpMM)
 <!-- BLOG-POST-LIST:END -->
 
 ---
