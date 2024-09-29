@@ -31,11 +31,11 @@ Regarding my portfolio: Working on it is not a priority at this time
 ### 🎦 My Latest YouTube videos
 
 <!-- BLOG-POST-LIST:START -->
+- [The Agile MBA course preview](https://www.youtube.com/watch?v=iW0e3a1EShg)
+- [Chingu Voyage project progress so far &lpar;1&rpar;](https://www.youtube.com/watch?v=bWTpXV1XW7s)
 - [What is an MVP ?](https://www.youtube.com/watch?v=T5pMjbRb6Io)
 - [How to install React with Vite and add Tailwindcss](https://www.youtube.com/watch?v=HPZjOD9Govg)
 - [Git pull command &lpar;learning&rpar;](https://www.youtube.com/watch?v=_ovRgh2UYUs)
-- [Git remote branches and fetch playground &lpar;learning&rpar;](https://www.youtube.com/watch?v=-T_Ldj7-kMk)
-- [Git rebase &lpar;learning&rpar;](https://www.youtube.com/watch?v=-SQyR8HJBpE)
 <!-- BLOG-POST-LIST:END -->
 
 ---
