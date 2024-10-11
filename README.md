@@ -31,7 +31,7 @@ Regarding my portfolio: Working on it is not a priority at this time
 ### 🎦 My Latest YouTube videos
 
 <!-- BLOG-POST-LIST:START -->
-- [problem](https://www.youtube.com/watch?v=H95yQFcGNyQ)
+- [team](https://www.youtube.com/watch?v=naxM6foNbWg)
 - [Chingu Voyage project progress so far 2](https://www.youtube.com/watch?v=W8gFrhYIUSg)
 - [The Agile MBA course preview](https://www.youtube.com/watch?v=iW0e3a1EShg)
 - [Chingu Voyage project progress so far &lpar;1&rpar;](https://www.youtube.com/watch?v=bWTpXV1XW7s)
