@@ -31,11 +31,11 @@ Regarding my portfolio: Working on it is not a priority at this time
 ### 🎦 My Latest YouTube videos
 
 <!-- BLOG-POST-LIST:START -->
-- [Agile: Class 2 summary &lpar;part 2&rpar;](https://www.youtube.com/watch?v=mG6NPHHhNcA)
-- [Agile: Class 2 summary &lpar;part 1&rpar;](https://www.youtube.com/watch?v=xdi9NVMTqKk)
+- [Agile: Class 4 summary. Scrum, the how](https://www.youtube.com/watch?v=KnOFVEPpOJ4)
+- [Agile: Class 3 summary. Scrum, the what and why](https://www.youtube.com/watch?v=8awuAsBd0R4)
+- [Agile: Class 2 summary. Estimating &lpar;part 2&rpar;](https://www.youtube.com/watch?v=mG6NPHHhNcA)
+- [Agile: Class 2 summary. Estimating &lpar;part 1&rpar;](https://www.youtube.com/watch?v=xdi9NVMTqKk)
 - [Agile: Manifesto principles](https://www.youtube.com/watch?v=GAcxeRqjjyY)
-- [Agile: Scientific method](https://www.youtube.com/watch?v=pU4P9y7OLHo)
-- [Agile: Class 1 summary](https://www.youtube.com/watch?v=pc4H_4vkQPk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
