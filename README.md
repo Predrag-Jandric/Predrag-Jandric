@@ -31,11 +31,11 @@ Regarding my portfolio: Working on it is not a priority at this time
 ### 🎦 My Latest YouTube videos
 
 <!-- BLOG-POST-LIST:START -->
-- [My presentation about discipline](https://www.youtube.com/watch?v=tU9dF6Joc4k)
-- [Agile: Class 12 summary. Peopleware](https://www.youtube.com/watch?v=IV-6vReJ-Vk)
-- [Agile: Class 11 summary. Cognitive Bias](https://www.youtube.com/watch?v=zRJtVkOH20o)
-- [Agile: Class 10 summary. Systems Theory/Thinking](https://www.youtube.com/watch?v=fzcOVoTaGhY)
-- [Agile: Class 9 summary. Flow-Based Product Development &lpar;part 3&rpar;](https://www.youtube.com/watch?v=sH4bW9raeDI)
+- [How to write amazing README.md](https://www.youtube.com/watch?v=NXuGpNW4x4w)
+- [How React, NodeJS and database interact together](https://www.youtube.com/watch?v=DnjXaae34Rk)
+- [NodeJS: Working with file system module](https://www.youtube.com/watch?v=JxKLpyxNL8o)
+- [NodeJS: Introduction to npm and Package Management](https://www.youtube.com/watch?v=JqLmK7dJrxQ)
+- [NodeJS: Modules](https://www.youtube.com/watch?v=qhgOnmJR7lE)
 <!-- BLOG-POST-LIST:END -->
 
 ---
