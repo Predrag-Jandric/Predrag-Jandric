@@ -31,11 +31,11 @@ Regarding my portfolio: Working on it is not a priority at this time
 ### 🎦 My Latest YouTube videos
 
 <!-- BLOG-POST-LIST:START -->
+- [dark mode test video](https://www.youtube.com/watch?v=bj-IBziKDLs)
 - [How Frontend, Backend, and Database Work Together](https://www.youtube.com/watch?v=fZ93gz5QLno)
 - [CRUD operations and HTTP methods](https://www.youtube.com/watch?v=Q6qASIWWxbM)
 - [Intro to Express.js](https://www.youtube.com/watch?v=EHa6Xk9pNk8)
 - [How to write amazing README.md](https://www.youtube.com/watch?v=NXuGpNW4x4w)
-- [How React, NodeJS and database interact together](https://www.youtube.com/watch?v=DnjXaae34Rk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
