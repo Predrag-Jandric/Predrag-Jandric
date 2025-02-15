@@ -2,15 +2,14 @@
 
 <!-- ## [🌟 Portfolio 🌟](https://) IN PROGRESS -->
 
-Every day, and every hour spent coding, is another breadcrumb which will compounds into an impressive stack of skills. It's all about discipline and consistency 😀
+Welcome, make yourself at home 🏠 I'm probably busy in coding, wrestling with some bug or working on an idea 💡 Feel free to connect with me on Linkedin, check out my coding progression on Youtube video diary or visit my portfolio. 
 
-Beyond technical skills, I value collaboration, communication, and empathy. I think that successful projects are built on strong teamwork and understanding.
+Personal observation:
+In my experience of working with colleagues in the IT industry on open source projects, I noticed that communication can sometimes be difficult, going on long explanation detours with lots of "ummms" and no clear path forward at the end. I think efficient communication is key in today's world because our attention spans are short. To effectively communicate with the team, when building an application, I came up with this 3 step action plan:
 
-I believe that writing documentation is as vital as writing the code itself. It turns a codebase into a clear guide, making it easier for everyone to understand and contribute.
-
-Learning to code, especially with React, has taught me more than just technical skills. It’s shown me the value of breaking down complex problems, focusing on reusability, and attention to detail. These lessons, I apply both in coding and in real life.
-
-Regarding my portfolio: Working on it is not a priority at this time
+- Define the Problem ( Our application is slow and users are frustrated)
+- Present Solution ( Increase application performance for a smoother user experience)
+- Suggest Implementation ( First, optimize images and use lazy loading. If that doesn't work, explore the option of using server side rendering)
 
 ---
 
