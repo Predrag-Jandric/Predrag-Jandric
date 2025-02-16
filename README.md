@@ -30,7 +30,7 @@ In my experience of working with colleagues in the IT industry on open source pr
 ### 🎦 My Latest YouTube videos
 
 <!-- BLOG-POST-LIST:START -->
-- [App presentation by dev: &quot;Split Expense&quot;](https://www.youtube.com/watch?v=d6Xhf7XYMes)
+- [App presentation by dev: &quot;Split Smart&quot;](https://www.youtube.com/watch?v=d6Xhf7XYMes)
 - [How Frontend, Backend, and Database Work Together](https://www.youtube.com/watch?v=fZ93gz5QLno)
 - [CRUD operations and HTTP methods](https://www.youtube.com/watch?v=Q6qASIWWxbM)
 - [Intro to Express.js](https://www.youtube.com/watch?v=EHa6Xk9pNk8)
