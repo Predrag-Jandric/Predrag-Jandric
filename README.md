@@ -30,11 +30,11 @@ In my experience of working with colleagues in the IT industry on open source pr
 ### 🎦 My Latest YouTube videos
 
 <!-- BLOG-POST-LIST:START -->
+- [App presentation by dev: &quot;Crusty&#39;s Pizza&quot;](https://www.youtube.com/watch?v=QE5tYT89XQc)
 - [App presentation by dev: &quot;Split Smart&quot;](https://www.youtube.com/watch?v=d6Xhf7XYMes)
 - [How Frontend, Backend, and Database Work Together](https://www.youtube.com/watch?v=fZ93gz5QLno)
 - [CRUD operations and HTTP methods](https://www.youtube.com/watch?v=Q6qASIWWxbM)
 - [Intro to Express.js](https://www.youtube.com/watch?v=EHa6Xk9pNk8)
-- [How to write amazing README.md](https://www.youtube.com/watch?v=NXuGpNW4x4w)
 <!-- BLOG-POST-LIST:END -->
 
 ---
