@@ -30,11 +30,11 @@ In my experience of working with colleagues in the IT industry on open source pr
 ### 🎦 My Latest YouTube videos
 
 <!-- BLOG-POST-LIST:START -->
+- [Importance of pair programming and technical debt](https://www.youtube.com/watch?v=DDsou7xWZz8)
+- [How to track dev&#39;s work using Github](https://www.youtube.com/watch?v=FUCPOckQYoA)
 - [App presentation by dev: &quot;Pangea Dino Museum&quot;](https://www.youtube.com/watch?v=FCIJ71fVwIc)
 - [App presentation by dev: &quot;Crusty&#39;s Pizza&quot;](https://www.youtube.com/watch?v=QE5tYT89XQc)
 - [App presentation by dev: &quot;Split Smart&quot;](https://www.youtube.com/watch?v=d6Xhf7XYMes)
-- [How Frontend, Backend, and Database Work Together](https://www.youtube.com/watch?v=fZ93gz5QLno)
-- [CRUD operations and HTTP methods](https://www.youtube.com/watch?v=Q6qASIWWxbM)
 <!-- BLOG-POST-LIST:END -->
 
 ---
