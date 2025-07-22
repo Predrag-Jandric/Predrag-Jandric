@@ -30,11 +30,11 @@ In my experience of working with colleagues in the IT industry on open source pr
 ### 🎦 My Latest YouTube videos
 
 <!-- BLOG-POST-LIST:START -->
+- [Interview prep 03: JavaScript questions](https://www.youtube.com/watch?v=Y6BmjQe5taY)
+- [Interview prep 02: HTML &amp; CSS questions](https://www.youtube.com/watch?v=e6-NcemA7WE)
+- [Interview prep 01: general questions](https://www.youtube.com/watch?v=m8pEjn4L6gI)
 - [App presentation by dev: &quot;Ebuy&quot;](https://www.youtube.com/watch?v=hCyIC1Irsio)
 - [Importance of pair programming and technical debt](https://www.youtube.com/watch?v=DDsou7xWZz8)
-- [How to track dev&#39;s work using Github](https://www.youtube.com/watch?v=FUCPOckQYoA)
-- [App presentation by dev: &quot;Pangea Dino Museum&quot;](https://www.youtube.com/watch?v=FCIJ71fVwIc)
-- [App presentation by dev: &quot;Crusty&#39;s Pizza&quot;](https://www.youtube.com/watch?v=QE5tYT89XQc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
