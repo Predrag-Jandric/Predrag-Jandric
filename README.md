@@ -30,11 +30,11 @@ In my experience of working with colleagues in the IT industry on open source pr
 ### 🎦 My Latest YouTube videos
 
 <!-- BLOG-POST-LIST:START -->
+- [Interview prep 07: RADIO system design &lpar;part 2&rpar;](https://www.youtube.com/watch?v=5K5TKd3qBQg)
 - [Interview prep 06: RADIO system design &lpar;part 1&rpar;](https://www.youtube.com/watch?v=08jnwJAx3Kw)
 - [Interview prep 05: web fundamentals questions](https://www.youtube.com/watch?v=7guWpCSiiE4)
 - [Interview prep 04: React questions](https://www.youtube.com/watch?v=s-pDZLVCyOM)
 - [Interview prep 03: JavaScript questions](https://www.youtube.com/watch?v=Y6BmjQe5taY)
-- [Interview prep 02: HTML &amp; CSS questions](https://www.youtube.com/watch?v=e6-NcemA7WE)
 <!-- BLOG-POST-LIST:END -->
 
 ---
