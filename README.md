@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=009FF5&height=300&section=header&text=Hello,%20I'm%20Predrag👋&fontSize=55&&animation=scaleIn&&fontColor=EBEBEB&&fontAlignY=40)
+Focusing...
 
-<!-- ## [🌟 Portfolio 🌟](https://) IN PROGRESS -->
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=009FF5&height=300&section=header&text=Hello,%20I'm%20Predrag👋&fontSize=55&&animation=scaleIn&&fontColor=EBEBEB&&fontAlignY=40)
 
 Welcome, make yourself at home 🏠 I'm probably busy in coding, wrestling with some bug or working on an idea 💡 Feel free to connect with me on Linkedin, check out my coding progression on Youtube video diary or visit my portfolio. 
 
@@ -30,7 +30,7 @@ In my experience of working with colleagues in the IT industry on open source pr
 ### 🎦 My Latest YouTube videos
 
 <!-- BLOG-POST-LIST:START -->
-- [React Hooks for Interviews](https://www.youtube.com/watch?v=bEaAwmO1N2A)
+<!--- [React Hooks for Interviews](https://www.youtube.com/watch?v=bEaAwmO1N2A)
 - [State Design in React Interviews](https://www.youtube.com/watch?v=mKE-UfXFKMc)
 - [Managing state &lpar;reading docs&rpar;](https://www.youtube.com/watch?v=T1761Lp72Fs)
 - [Evaluation Criteria for Front End System Design Interviews](https://www.youtube.com/watch?v=a2LVMvyHFCo)
@@ -40,7 +40,7 @@ In my experience of working with colleagues in the IT industry on open source pr
 ---
 
 <!-- stats card -->
-<p><img  src="https://github-readme-stats-sigma-five.vercel.app/api?username=Predrag-Jandric&show_icons=true&locale=en&theme=gruvbox&hide=issues,contribs&include_all_commits=true" alt="user" /></p>
+<!--<p><img  src="https://github-readme-stats-sigma-five.vercel.app/api?username=Predrag-Jandric&show_icons=true&locale=en&theme=gruvbox&hide=issues,contribs&include_all_commits=true" alt="user" /></p>
 
 ![](https://komarev.com/ghpvc/?username=Predrag-Jandric&color=blue&base=367)
 
