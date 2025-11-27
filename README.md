@@ -30,7 +30,7 @@ In my experience of working with colleagues in the IT industry on open source pr
 ### 🎦 My Latest YouTube videos
 
 <!-- BLOG-POST-LIST:START -->
-<!--- [React Hooks for Interviews](https://www.youtube.com/watch?v=bEaAwmO1N2A)
+- [React Hooks for Interviews](https://www.youtube.com/watch?v=bEaAwmO1N2A)
 - [State Design in React Interviews](https://www.youtube.com/watch?v=mKE-UfXFKMc)
 - [Managing state &lpar;reading docs&rpar;](https://www.youtube.com/watch?v=T1761Lp72Fs)
 - [Evaluation Criteria for Front End System Design Interviews](https://www.youtube.com/watch?v=a2LVMvyHFCo)
